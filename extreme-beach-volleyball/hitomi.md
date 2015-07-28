@@ -6,7 +6,7 @@
 - Amaryllis
 
 #### 2/13
-- Begoina
+- Begonia
 - Bougainvillea
 
 #### 3/13
