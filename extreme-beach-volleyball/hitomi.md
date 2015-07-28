@@ -3,48 +3,48 @@
 ## Swimsuits
 
 #### 1/13
-- **Amaryllis** (Kasumi)
+- **Amaryllis** *(Kasumi)*
 
 #### 2/13
-- **Begonia** (Kasumi)
-- **Bougainvillea** (Kasumi)
+- **Begonia** *(Kasumi)*
+- **Bougainvillea** *(Kasumi)*
 
 #### 3/13
-- **Camellia** (Kasumi)
+- **Camellia** *(Kasumi)*
 - **Cassiopeia** (Zack)
-- **Cattleya** (Kasumi)
+- **Cattleya** *(Kasumi)*
 
 #### 4/13
-- **Clover** (Kasumi)
-- **Clover (skirt)** (Kasumi)
-- **Cosmas** (Kasumi)
-- **Dahlia** (Kasumi)
+- **Clover** *(Kasumi)*
+- **Clover (skirt)** *(Kasumi)*
+- **Cosmas** *(Kasumi)*
+- **Dahlia** *(Kasumi)*
 
 #### 5/13
 
 #### 6/13
-- **Hyacinth** (Kasumi)
-- **Hydrangea** (Kasumi)
-- **Indigo** (Kasumi)
-- **Indigo (skirt)** (Kasumi)
+- **Hyacinth** *(Kasumi)*
+- **Hydrangea** *(Kasumi)*
+- **Indigo** *(Kasumi)*
+- **Indigo (skirt)** *(Kasumi)*
 
 #### 7/13
-- **Lily** (Kasumi)
+- **Lily** *(Kasumi)*
 
 #### 8/13
-- **Marguerite** (Kasumi)
-- **Morning Glory** (Kasumi)
+- **Marguerite** *(Kasumi)*
+- **Morning Glory** *(Kasumi)*
 
 #### 9/13
-- **Olive** (Kasumi)
-- **Peony** (Kasumi)
+- **Olive** *(Kasumi)*
+- **Peony** *(Kasumi)*
 
 #### 10/13
 
 #### 11/13
 
 #### 12/13
-- **Tulip** (Kasumi)
+- **Tulip** *(Kasumi)*
 
 #### 13/13
 
