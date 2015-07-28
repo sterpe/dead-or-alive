@@ -3,48 +3,48 @@
 ## Swimsuits
 
 #### 1/13
-- Amaryllis
+- Amaryllis (Kasumi)
 
 #### 2/13
-- Begonia
-- Bougainvillea
+- Begonia (Kasumi)
+- Bougainvillea (Kasumi)
 
 #### 3/13
-- Camellia
-- Cassiopeia
-- Cattleya
+- Camellia (Kasumi)
+- Cassiopeia (Zack)
+- Cattleya (Kasumi)
 
 #### 4/13
-- Clover
-- Clover (skirt)
-- Cosmas
-- Dahlia
+- Clover (Kasumi)
+- Clover (skirt) (Kasumi)
+- Cosmas (Kasumi)
+- Dahlia (Kasumi)
 
 #### 5/13
 
 #### 6/13
-- Hyacinth
-- Hydrangea
-- Indigo
-- Indigo (skirt)
+- Hyacinth (Kasumi)
+- Hydrangea (Kasumi)
+- Indigo (Kasumi)
+- Indigo (skirt) (Kasumi)
 
 #### 7/13
-- Lily
+- Lily (Kasumi)
 
 #### 8/13
-- Marguerite
-- Morning Glory
+- Marguerite (Kasumi)
+- Morning Glory (Kasumi)
 
 #### 9/13
-- Olive
-- Peony
+- Olive (Kasumi)
+- Peony (Kasumi)
 
 #### 10/13
 
 #### 11/13
 
 #### 12/13
-- Tulip
+- Tulip (Kasumi)
 
 #### 13/13
 
